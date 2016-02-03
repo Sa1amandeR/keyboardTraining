@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PATH>
+	<LVLS>
+     	<path URL="../src/res/game_config/Level_1.swf" ID="Level_1"  open_score="0" errors="1" text="j" numWords="10" time="20"/>
+     	<path URL="../src/res/game_config/Level_2.swf" ID="Level_2"  open_score="99" errors="4" text="fjei" numWords="10" time="20"/>
+     	<path URL="../src/res/game_config/Level_3.swf" ID="Level_3"  open_score="199" errors="3" text="fjeiqpwo" numWords="10" time="20"/>
+     	<path URL="../src/res/game_config/Level_4.swf" ID="Level_4"  open_score="299" errors="2" text="fjghqpal" numWords="10" time="20"/>   	
+	</LVLS>
+</PATH>	

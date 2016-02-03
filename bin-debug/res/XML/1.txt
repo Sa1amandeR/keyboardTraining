@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PATHS>
+      <path URL="../src/res/swf/Lobby.swf" 		ID="Lobby" 			TYPE="movieclip"/>
+      <path URL="../src/res/swf/Icons.swf" 		ID="Icons" 			TYPE="movieclip"/>
+      <path URL="../src/res/swf/InfoMenu.swf" 	ID="InfoMenu" 		TYPE="movieclip"/>
+      <path URL="../src/res/swf/ToolBar.swf" 	ID="ToolBar" 		TYPE="movieclip"/>
+</PATHS>
