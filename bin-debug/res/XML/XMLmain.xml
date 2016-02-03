@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PATH>
+	 <LEVELS>
+	    <path URL="../src/res/XML/Levels.xml" 		  ID="Levels"     TYPE="xml"/>
+	 </LEVELS>
+     <LIBRARY>
+		<path URL="../src/res/swf/Icons.swf"  	      ID="Icons"      TYPE="movieclip"/>
+		<path URL="../src/res/swf/WellcomePopup.swf"  ID="Wellcome_vl"   TYPE="movieclip"/>
+		<path URL="../src/res/swf/Score_bar.swf"      ID="ScoreBar_vl"   TYPE="movieclip"/>
+     </LIBRARY>
+</PATH>
